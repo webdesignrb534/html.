@@ -100,5 +100,3 @@ to { opacity: 1; transform: translateY(0); }
 <div class="answer">The `<div>` tag is used as a container for other HTML elements to structure a web page.</div>
 </div>
 </div>
-</body>
-</html>
